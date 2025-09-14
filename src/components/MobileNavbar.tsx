@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './mobile.css';
+import '../styles/mobile.css';
 
 const MobileNavbar: React.FC = () => {
     return (
